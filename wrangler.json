@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "the-app-server",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6c20062f-9d03-473e-ade7-2bd4625b648e",
+      "database_name": "the-app-db-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
